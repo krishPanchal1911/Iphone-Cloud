@@ -1,0 +1,24 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(10, 9, 10);
+    color: white;
+}
+body{
+    margin-top: 15px;
+}
+nav{
+    border: 2px solid white;
+    background-color: black transparent;
+    border-radius: 10px;
+}
+#head{
+    margin-left: 20px;
+}
+h1{
+    display: inline-block;
+}
+.menu{
+    border: 1px solid white;
+    display: inline-block;
+    transform: translate(1325px,30px);
+}
